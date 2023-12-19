@@ -4,9 +4,13 @@
 Python Flask App to check that a server is alive and running.
 
 ## Run it:
+```bash
 flask run -h localhost -p 3000
+```
 or
+```bash
 nohup flask run -h localhost -p 3000 &
+```
 
 ## Author
 * Wallace Espindola, Sr. Software Engineer / Java & Python Dev (wallace.espindola@gmail.com)
