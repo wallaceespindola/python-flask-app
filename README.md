@@ -16,9 +16,15 @@ or
 ```bash
 nohup flask run -h localhost -p 3000 &
 ```
-
 ## Author
-* Wallace Espindola, Sr. Software Engineer / Java & Python Dev (wallace.espindola@gmail.com)
+
+- Wallace Espindola, Sr. Software Engineer / Java & Python Dev
+- E-mail: wallace.espindola@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wallaceespindola/
+- Gravatar: https://gravatar.com/wallacese
+- Website: https://wtechitsolutions.com/
 
 ## License
-**Free Software, Apache 2.0**
+
+- This project is released under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
+- Copyright © 2023 [Wallace Espindola](https://github.com/wallaceespindola/).
